@@ -1,0 +1,16 @@
+{
+    "name": "Runtime.SFS",
+    "rootNamespace": "",
+    "references": [
+        "GUID:23cf23d9cd1964447afdf91b26b76750"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

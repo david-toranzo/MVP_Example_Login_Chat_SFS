@@ -1,0 +1,23 @@
+{
+    "name": "SFS",
+    "rootNamespace": "",
+    "references": [
+        "Runtime.Installers",
+        "Runtime.Button",
+        "Runtime.Mocks",
+        "Runtime.Services",
+        "Runtime.Observers",
+        "Runtime.Common",
+        "Unity.TextMeshPro",
+        "Runtime.ObjectPooling"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Runtime.SendMessage.Presenter",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1d03a645388201e45996303c90b0ee7b",
+        "GUID:888c81ac42e04614b809f4729da88605"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

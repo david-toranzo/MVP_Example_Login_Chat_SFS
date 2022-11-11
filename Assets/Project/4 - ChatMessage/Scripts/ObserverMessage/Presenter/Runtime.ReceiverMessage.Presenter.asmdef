@@ -1,0 +1,19 @@
+{
+    "name": "Runtime.ReceiverMessage.Presenter",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1d03a645388201e45996303c90b0ee7b",
+        "GUID:f8f743900f1bd0a4797105ce04d817a9",
+        "GUID:4697325a602b78e4d960feff38075eaa",
+        "GUID:04956e3f1b09a6b498036d878e478794"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

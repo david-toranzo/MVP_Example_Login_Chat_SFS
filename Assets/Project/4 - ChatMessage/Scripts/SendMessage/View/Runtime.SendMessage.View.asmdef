@@ -1,0 +1,16 @@
+{
+    "name": "Runtime.SendMessage.View",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5f7035c8836c7194bb2d7ec355d4069c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

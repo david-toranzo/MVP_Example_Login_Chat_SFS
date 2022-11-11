@@ -1,0 +1,26 @@
+{
+    "name": "Runtime.Login",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9441a59a5a7338a4daf1f4490f4350f2",
+        "GUID:d567d02b6f7dfcc47a3341f2bbfe34ef",
+        "GUID:23cf23d9cd1964447afdf91b26b76750",
+        "GUID:541f50d552bb8a44d91721bf5c62b78f",
+        "GUID:888c81ac42e04614b809f4729da88605",
+        "GUID:713ad1af5c1b0054ea2ab6fc6b573f7a",
+        "GUID:7346039f9e207644580405556eab4940",
+        "GUID:d5a09d6c0c897bd4bbc086f84e7d1e32",
+        "GUID:e563913f2aeef39459b3a27753f86111",
+        "GUID:a74d510fb0da8ee49aa309446f9f8380",
+        "GUID:06546884bf9496b4eb9da6edcdd8f0c2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

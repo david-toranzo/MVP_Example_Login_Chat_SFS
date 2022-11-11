@@ -1,0 +1,22 @@
+{
+    "name": "Runtime.LoginConnect.Installer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:839f9842d8aa51d4c853689d1e019b07",
+        "GUID:5b61fcc4e4638e14790678be31de6771",
+        "GUID:133b36331eaabde40bad5006459ccedf",
+        "GUID:888c81ac42e04614b809f4729da88605",
+        "GUID:d567d02b6f7dfcc47a3341f2bbfe34ef",
+        "GUID:541f50d552bb8a44d91721bf5c62b78f",
+        "GUID:23cf23d9cd1964447afdf91b26b76750"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Runtime.ReceiverMessage.View",
+    "rootNamespace": "",
+    "references": [
+        "GUID:baaab7af1d5f6b24eb5e478c63ce497f",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

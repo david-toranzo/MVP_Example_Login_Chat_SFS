@@ -1,0 +1,24 @@
+{
+    "name": "Runtime.ReceiverMessage.Installer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1d03a645388201e45996303c90b0ee7b",
+        "GUID:baaab7af1d5f6b24eb5e478c63ce497f",
+        "GUID:354430fcd75f2fe47b9e7535b10bd81d",
+        "GUID:4697325a602b78e4d960feff38075eaa",
+        "GUID:f8f743900f1bd0a4797105ce04d817a9",
+        "GUID:04956e3f1b09a6b498036d878e478794",
+        "GUID:23cf23d9cd1964447afdf91b26b76750",
+        "GUID:d567d02b6f7dfcc47a3341f2bbfe34ef",
+        "GUID:9441a59a5a7338a4daf1f4490f4350f2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

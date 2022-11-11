@@ -1,0 +1,19 @@
+{
+    "name": "Runtime.LoginConnect.Model",
+    "rootNamespace": "",
+    "references": [
+        "GUID:06546884bf9496b4eb9da6edcdd8f0c2",
+        "GUID:9441a59a5a7338a4daf1f4490f4350f2",
+        "GUID:23cf23d9cd1964447afdf91b26b76750",
+        "GUID:541f50d552bb8a44d91721bf5c62b78f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Runtime.GetMessage.Presenter",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1dd4b261a3415b14b8b1e4747b77588f",
+        "GUID:1d03a645388201e45996303c90b0ee7b",
+        "GUID:5f7035c8836c7194bb2d7ec355d4069c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

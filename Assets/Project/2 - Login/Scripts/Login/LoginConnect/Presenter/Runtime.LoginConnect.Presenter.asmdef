@@ -1,0 +1,17 @@
+{
+    "name": "Runtime.LoginConnect.Presenter",
+    "rootNamespace": "",
+    "references": [
+        "GUID:839f9842d8aa51d4c853689d1e019b07",
+        "GUID:888c81ac42e04614b809f4729da88605"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

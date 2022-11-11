@@ -1,0 +1,22 @@
+{
+    "name": "Runtime.SendMessage.Installer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1d03a645388201e45996303c90b0ee7b",
+        "GUID:5f7035c8836c7194bb2d7ec355d4069c",
+        "GUID:2944e0faf1405564ba9ea3ca944bc4b8",
+        "GUID:888c81ac42e04614b809f4729da88605",
+        "GUID:541f50d552bb8a44d91721bf5c62b78f",
+        "GUID:d567d02b6f7dfcc47a3341f2bbfe34ef",
+        "GUID:9441a59a5a7338a4daf1f4490f4350f2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

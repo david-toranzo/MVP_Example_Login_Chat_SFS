@@ -1,0 +1,16 @@
+{
+    "name": "Runtime.LoginConnect.View",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5b61fcc4e4638e14790678be31de6771"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
